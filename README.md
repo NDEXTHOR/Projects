@@ -198,7 +198,7 @@ Tetris en consola. Bloques que caen del cielo, los rotamos, los alineamos y desa
 
 Componentes principales:
 
-- **Piezas (Tetrominos)**: las 7 piezas estándar de Tetris (I, O, T, S, Z, J, L).
+- **Piezas**: las 7 piezas estándar de Tetris (I, O, T, S, Z, J, L).
 - **Tablero de juego**: matriz que representa el campo donde caen las piezas.
 - **Sistema de rotación**: cada pieza puede rotarse para encajar mejor.
 - **Detección de líneas completas**: cuando una fila se llena, desaparece.
